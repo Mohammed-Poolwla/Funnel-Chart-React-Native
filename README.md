@@ -36,3 +36,6 @@ const data = [
     width={230}
 />
 ```
+
+## Chart Image
+![Screenshot](https://github.com/Mohammed-Poolwla/Funnel-Chart-React-Native/blob/master/funnel-image.png)
