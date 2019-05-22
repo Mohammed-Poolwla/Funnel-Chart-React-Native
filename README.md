@@ -1,5 +1,5 @@
 # Funnel-Chart-React-Native
-Funnel Chart is created React Native component
+This Funnel Chart is created in React Native component
 
 ## Getting started
 Put the "funnelChart" folder in your components directry and import from them.
